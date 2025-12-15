@@ -4,8 +4,8 @@ project-root/
 └── README.md        # This file
 
 
-SERVER
-# Navigate to server directory
+# SERVER
+ Navigate to server directory
 cd server
 
 # Install dependencies
@@ -15,8 +15,8 @@ npm install
 node index.js
 
 
-CLIENT
-# Navigate to client directory
+# CLIENT 
+ Navigate to client directory
 cd client
 
 # Install dependencies
