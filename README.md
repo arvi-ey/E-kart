@@ -5,7 +5,7 @@ project-root/
 
 
 # SERVER
- Navigate to server directory
+ # Navigate to server directory
 cd server
 
 # Install dependencies
@@ -16,7 +16,7 @@ node index.js
 
 
 # CLIENT 
- Navigate to client directory
+ # Navigate to client directory
 cd client
 
 # Install dependencies
